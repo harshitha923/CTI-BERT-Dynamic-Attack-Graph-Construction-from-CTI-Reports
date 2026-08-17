@@ -1,4 +1,4 @@
-# CTI-BERT-Dynamic-Attack-Graph-Construction-from-CTI-Reports
+# CTI-BERT: Dynamic Attack Graph Construction from CTI Reports
 ## Overview
 
 CTI-BERT is an end-to-end Cyber Threat Intelligence (CTI) analysis framework that automatically extracts cybersecurity entities from unstructured threat reports and constructs a probabilistic knowledge graph for threat hunting and attack analysis.
@@ -30,7 +30,7 @@ Shows:
 - Generated cybersecurity entities
 - Graph Formation
 
-📹 **Video:** `demo/Demo_1_End_to_End_Pipeline.mp4`
+📹 **Video:** `demo/demo_graph_construction.mp4`
 
 ---
 
@@ -47,9 +47,3 @@ Shows:
 - NumPy
 
 ---
-
-## Author
-
-Harshith
-M.Tech Information Technology
-Madras Institute of Technology, Anna University
