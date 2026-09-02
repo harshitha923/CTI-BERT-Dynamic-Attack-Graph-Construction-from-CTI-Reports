@@ -23,11 +23,11 @@
 
 Cyber Threat Intelligence (CTI) reports contain valuable information regarding cyber attacks, threat actors, malware, attack techniques, tools, vulnerabilities, and campaigns. However, these reports are written in unstructured natural language, making manual threat analysis both time-consuming and error-prone.
 
-**CTI-ThreatLens** is an end-to-end Artificial Intelligence framework that automatically transforms unstructured CTI reports into structured cyber threat intelligence.
+This is an end-to-end Artificial Intelligence framework that automatically transforms unstructured CTI reports into structured cyber threat intelligence.
 
 The framework integrates **Natural Language Processing, Knowledge Graph Construction, Graph Neural Networks, and Deep Learning-based Forecasting** to identify attack patterns and predict future attack stages.
 
-> 🎓 Developed as part of my **M.Tech in Artificial Intelligence** research and presented at **CLICK 2026**.
+> 🎓 Developed as part of my **M.Tech in Information Technology** research and presented at **CLICK 2026**.
 
 ---
 
@@ -186,7 +186,7 @@ EXECUTION
 ---
 
 <p align="center">
-<img src="assets/Sample Output for forecasting next Possible attack.png" width="850">
+<img src="assets/Sample-Output-for-forecasting-next-possible-attack.png" width="850">
 </p>
 
 ---
@@ -213,11 +213,10 @@ CTI-ThreatLens/
 │     Overall Architecture.png
 |     pipeline.png
 │     Sample Dynamic Graph Constructed Output.png
-│     Sample Output for forecasting next Possible attack.png
+│     Sample Output for forecasting next possible attack.png
 │
 ├── docs/
-│     Project_Report.pdf
-│     CLICK2026_Presentation.pdf
+│     project presentation.pdf
 ```
 
 ---
@@ -309,9 +308,9 @@ demo/demo_threat_prediction.mp4
 
 # Author
 
-**Harshitha**
+**Harshitha G S**
 
-**M.Tech – Artificial Intelligence**
+**M.Tech – Information Technology**
 
 Areas of Interest
 
