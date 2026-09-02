@@ -186,7 +186,7 @@ EXECUTION
 ---
 
 <p align="center">
-<img src="assets/forecasting.png" width="850">
+<img src="assets/Sample Output for forecasting next Possible attack.png" width="850">
 </p>
 
 ---
@@ -205,6 +205,7 @@ CTI-ThreatLens/
 │
 ├── demo/
 │     demo_graph_construction.mp4
+|     demo_threat_prediction.mp4
 │
 ├── assets/
 │     CTIBERT Layer wise architecture.png
@@ -248,7 +249,7 @@ pip install -r requirements.txt
 Open the notebook
 
 ```
-notebooks/CTIBERT_NER_Training.ipynb
+code/CTIBERT_NER_TRAINING.ipynb
 ```
 
 Execute the notebook sequentially to:
