@@ -200,25 +200,23 @@ CTI-ThreatLens/
 │── requirements.txt
 │── LICENSE
 │
-├── notebooks/
-│     CTIBERT_NER_Training.ipynb
+├── code/
+│     CTIBERT_NER_TRAINING.ipynb
 │
 ├── demo/
 │     demo_graph_construction.mp4
 │
 ├── assets/
-│     pipeline.png
-│     architecture.png
-│     attack_graph.png
-│     forecasting.png
-│     dashboard.png
-│     loss_curve.png
+│     CTIBERT Layer wise architecture.png
+│     NER Performace by CTI-BERT.png
+│     Overall Architecture.png
+|     pipeline.png
+│     Sample Dynamic Graph Constructed Output.png
+│     Sample Output for forecasting next Possible attack.png
 │
 ├── docs/
 │     Project_Report.pdf
 │     CLICK2026_Presentation.pdf
-│
-└── sample_data/
 ```
 
 ---
@@ -303,6 +301,7 @@ Demo video available in:
 
 ```
 demo/demo_graph_construction.mp4
+demo/demo_threat_prediction.mp4
 ```
 
 ---
