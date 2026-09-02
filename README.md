@@ -186,7 +186,7 @@ EXECUTION
 ---
 
 <p align="center">
-<img src="assets/Sample-Output-for-forecasting-next-possible-attack.png" width="850">
+<img src="assets/Sample Output for forecasting next possible attack.png" width="850">
 </p>
 
 ---
